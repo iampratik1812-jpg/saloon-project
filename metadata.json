@@ -1,0 +1,6 @@
+{
+  "name": "SalonBook — Salon & Beauty Parlour Booking Platform",
+  "description": "Discover trusted Indian salons, compare services and prices, and book appointments online. Dedicated dashboards for customers, salon owners, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
